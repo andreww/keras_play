@@ -34,4 +34,7 @@ install keras:
 It seems this also installs the theano back end.
 
 
+Resources
+=========
 
+In terms of designing NN this looks useful: http://hagan.okstate.edu/NNDesign.pdf
